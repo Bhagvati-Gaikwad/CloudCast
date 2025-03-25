@@ -36,6 +36,6 @@ Welcome to **CloudCast**! 🌤️ A web-based weather application that provides 
 Connect with me:
 - **GitHub**: [Bhagvati-Gaikwad](https://github.com/Bhagvati-Gaikwad)
 - **LinkedIn**: [Bhagvati Gaikwad](https://www.linkedin.com/in/bhagvati-gaikwad-ab89992a1/)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [bhagvatigaikwad@gmail.com](mailto:your-email@example.com)
 
 ☁️ *Stay informed about the weather with CloudCast!* 🌍
